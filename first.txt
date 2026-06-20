@@ -1,2 +1,2 @@
 My first push to Github from Ubuntu Terminal
-hi affan rahmani git push 
+hi affan rahmani congratulation git push successfully complete 
