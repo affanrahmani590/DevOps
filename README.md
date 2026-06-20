@@ -1,3 +1,11 @@
 # DevOps
-DevOPs Code
-he affan abhi tak task complite nahi kiya h
+
+DevOps practice repository.
+
+Topics:
+- Linux
+- Git & GitHub
+- Docker
+- Jenkins
+
+Learning and exploring DevOps concepts 🚀
