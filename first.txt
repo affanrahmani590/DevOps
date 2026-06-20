@@ -1,1 +1,2 @@
 My first push to Github from Ubuntu Terminal
+hi affan rahmani git push 
